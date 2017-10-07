@@ -95,9 +95,10 @@ setHardcodeFeedback( 2 );
 setHardcodeFeedback( 1, 2 );
 nextPage();
 
+//部分隐藏
 showTitle( '您是否买到了您需要的一切？' );
 setHardcodeFeedback( 1 );
-setHardcodeFeedback( 2, 2 );
+setHardcodeFeedback( 2, 7 );
 nextPage();
 
 showTitle( '請選擇您對下列關於結賬體驗的說法認同程度：' );
