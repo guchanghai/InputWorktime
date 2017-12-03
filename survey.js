@@ -1,6 +1,6 @@
 var step = 1;
 
-var stepInternal = 1000;
+var stepInternal = 1500;
 var pageGapStpes = 3;
 
 var showTitle = function( comment ){
