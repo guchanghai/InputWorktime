@@ -1,3 +1,7 @@
+/**
+ * Survery
+ **/
+
 var step = 1;
 
 var stepInternal = 1500;
