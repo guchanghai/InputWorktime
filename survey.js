@@ -145,6 +145,8 @@ setHardcodeFeedback( 4, 2 );
 setHardcodeFeedback( 4, 6 );
 setHardcodeFeedback( 4, 10 );
 setHardcodeFeedback( 1, 14 );
+//是否安装了Nike App
+setHardcodeFeedback( 1, 15 );
 nextPage();
 
 showTitle( '您从家里到达您今天光临的耐克专卖店花了多少时间？' );
